@@ -50,10 +50,10 @@ body .header-navbar ul li {
   font-size: 0.8rem;
 }
 body .header-navbar ul li .active {
-  color: #20C997;
+  color: #2072c9;
 }
 body .header-navbar ul li a:hover {
-  color: #20C997;
+  color: #2072c9;
 }
 body .header-social-media ul {
   display: flex;
@@ -70,7 +70,7 @@ body .header-social-media ul li {
   margin: 0 1rem;
 }
 body .header-social-media ul li a:hover {
-  color: #FFF;
+  color: #2072c9;
 }
 
 .gallery {
@@ -238,6 +238,15 @@ body .header-social-media ul li a:hover {
   background-size: 110%;
   filter: grayscale(0%);
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/refeicoes.jpg");
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 2rem;
+}
+footer span {
+  font-weight: bold;
+  color: #2072c9;
 }
 
 /*# sourceMappingURL=style.css.map */
